@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+  <property name="projectCode" type="string">
+    <value>NON-CLIENT</value>
+  </property>
+  <property name="state" type="string">
+    <value>Approved</value>
+  </property>
+</properties>
